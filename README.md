@@ -1,4 +1,3 @@
-### Hi there 👋
 ![winddyhe's github stats](https://github-readme-stats.vercel.app/api?username=winddyhe&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dracula)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=winddyhe&hide_title=false&hide_border=true&layout=compact&theme=dracula)
 ![主要使用语言](https://github-profile-trophy.vercel.app/?username=winddyhe&theme=flat&no-frame=true&margin-w=30)
