@@ -2,11 +2,6 @@
 
 游戏客户端 · 框架设计 · 工程化
 
-<!-- 顶部卡片：Trophy + Stats + Top langs（无边框以便并列） -->
-![trophies](https://github-profile-trophy.vercel.app/?username=winddyhe&theme=onedark&no-frame=true&column=7)
-![github stats](https://github-readme-stats.vercel.app/api?username=winddyhe&show_icons=true&theme=onedark&hide_border=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winddyhe&layout=compact&theme=onedark&hide_border=true)
-
 <!-- 额外小卡片行：关注 / 访客 / npm / license -->
 [![Follow on GitHub](https://img.shields.io/github/followers/winddyhe?label=Follow&style=social)](https://github.com/winddyhe)
 ![profile views](https://komarev.com/ghpvc/?username=winddyhe&color=blue)
@@ -28,7 +23,6 @@
 
 ## 活动统计
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=winddyhe&theme=onedark&hide_border=true)
-![commit activity](https://activity-graph.herokuapp.com/graph?username=winddyhe&theme=react-dark&hide_border=true)
 
 ---
 
